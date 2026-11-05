@@ -15,10 +15,10 @@ My coursework from learning data analysis with Excel, SQL, Python, and Power BI.
 
 These are my own projects, where I apply what I learned here:
 
-- [Sales Performance Analysis](https://github.com/denissamk/sales-performance-analysis)
-- [Marketing and Conversion Funnel](https://github.com/denissamk/marketing-and-conversion-funnel)
-- [Customer Retention and Segmentation](https://github.com/denissamk/customer-retention-and-segmentation)
-- [Demand Forecasting and Inventory Optimization](https://github.com/denissamk/demand-forecasting-and-inventory-optimization)
+- [Sales Performance Analysis](https://github.com/deniskusmahendra/sales-performance-analysis)
+- [Marketing and Conversion Funnel](https://github.com/deniskusmahendra/marketing-and-conversion-funnel)
+- [Customer Retention and Segmentation](https://github.com/deniskusmahendra/customer-retention-and-segmentation)
+- [Demand Forecasting and Inventory Optimization](https://github.com/deniskusmahendra/demand-forecasting-and-inventory-optimization)
 
 ## Credits
 
